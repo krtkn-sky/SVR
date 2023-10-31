@@ -1,2 +1,2 @@
 # SVR
-Support Vectore Regression
+Support Vector Regression
